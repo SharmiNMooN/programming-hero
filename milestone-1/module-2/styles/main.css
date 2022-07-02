@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+small{
+    color: coral;
+    display: block;
+
+}
+h3{
+    color: deepskyblue;
+    display: inline;
+}
